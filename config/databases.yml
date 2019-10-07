@@ -1,0 +1,7 @@
+all:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      dsn: 'mysql:host=remotemysql.com;dbname=KTwLqS6NSJ'
+      username: KTwLqS6NSJ
+      password: iWRr8ZcsCH
